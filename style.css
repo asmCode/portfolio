@@ -227,20 +227,19 @@ img
 .p_screens
 {
 	width: 800px;
-	height: 100px;
+	/*height: 100px;*/
 	vertical-align: center;
 }
 
 .p_miniatures
 {
-	float: center;
 	height: 100px;
 	margin:2px;
 }
 
 .p_label
 {
-	width: 500px;
+	/*width: 500px;*/
 }
 
 .p_label_td_key
