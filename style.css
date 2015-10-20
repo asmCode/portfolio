@@ -1,0 +1,257 @@
+body
+{
+	margin-top:		0px;
+	margin-right:		0px;
+	margin-left:		0px;
+	margin-bottom:		0px;
+	font-family:		Verdana;
+	font-size:		12px;
+	background-color:	#000000;
+	color:			#ffffff;
+	background-image: url("img/asmcode_by_night.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	vertical-align: center;
+}
+
+td
+{
+	margin-top:		0px;
+	margin-right:		0px;
+	margin-left:		0px;
+	margin-bottom:		0px;
+	font-family:		Verdana;
+	font-size:		12px;
+	background-color:	#000000;
+	color:			#ffffff;
+}
+
+html {
+    height: 100%
+}
+
+.project_button
+{
+	background-color: #333344;
+	width: 800px;
+	height: 104px;
+}
+
+.project_button:hover
+{
+/*background-color:#ffaa33;*/
+	background-color: #555577;
+	font-weight: normal;
+}
+
+.project_button:visited
+{
+/*background-color:#ffaa33;*/
+	background-color: #555577;
+	font-weight: normal;
+}
+
+.project_button:link
+{
+/*background-color:#ffaa33;*/
+	background-color: #555577;
+	font-weight: normal;
+}
+
+.project_button_desc
+{
+	float: left;
+	width:26%;
+	height:100%;
+	margin:4px;
+}
+
+.project_button_desc_title
+{
+	float: left;
+	font-weight: bold;
+	font-size: 14px;
+	color:ffffff;
+	margin:0px;
+	text-align: left;
+}
+
+.project_button_desc_desc
+{
+	float: left;
+	color:ffffff;
+	margin:0px;
+	text-align: left;
+}
+
+.project_button_desc_hash
+{
+	float: left;
+	color:ffffff;
+	margin:0px;
+	text-align: left;
+}
+
+.project_button_screens
+{
+	float: left;
+}
+
+.project_button_screen
+{
+	float: left;
+	height:100px;
+	margin:2px;
+}
+
+.center
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.left_margin
+{
+	margin-left:30px;
+}
+
+.title
+{
+	width:				800px;
+	color:				#de880c;
+	text-decoration:	bold;
+	font-size:			30px;
+	text-align:			justify;
+}
+
+.intro
+{
+	width:				800px;
+	vertical-align:		center;
+	color:				#777777;
+	text-decoration:	none;
+	font-size:			16px;
+	text-align:			justify;
+}
+
+.project
+{
+	text-align:			left;
+	width:				800px;
+	background-color:	#333333;
+	padding:			10px;
+	border:				1px solid #ffffff;
+}
+
+.project_movie
+{
+	text-align:			center;
+}
+
+.project_title
+{
+	width:				800px;
+	font-size:			16px;
+	margin-bottom:		20px;
+	color:				#ffffff;
+	font-weight:		bold;
+	background-color:	#de880c;
+	padding:			5px;
+	text-align:			center;
+}
+
+.project_desc
+{
+	width:				800px;
+	color:				#ffffff;
+}
+
+#div_main_menu
+{
+	border:			1px solid #2a86c7;
+	width:			200px;
+	height:			400px;
+}
+
+#div_content_area
+{
+	border:			1px solid #2a86c7;
+	width:			480px;
+	height:			380px;
+	padding:		10px;
+	text-align:		justify;
+	overflow:		auto;
+}
+
+.time_date
+{
+	font-size:		10px;
+}
+
+a:link
+{
+	border-width:	10px;
+    color:			#ffffff;
+    font-family:		Verdana;
+	font-size:		12px;
+	font-weight:		normal;
+	text-decoration:	none;
+}
+
+a:visited
+{
+	border-width:	10px;
+        color:			#ffffff;
+        font-family:		Verdana;
+	font-size:		12px;
+	font-weight:		700;
+	text-decoration:	none;
+}
+
+a:hover
+{
+	border:			0px;
+    color:			#00ffff;
+    font-family:		Verdana;
+	font-size:		12px;
+	/*font-weight:		700;*/
+	text-decoration:	none;
+}
+
+img
+{
+	border:		0;
+}
+
+.p_screens
+{
+	width: 800px;
+	height: 100px;
+	vertical-align: center;
+}
+
+.p_miniatures
+{
+	float: center;
+	height: 100px;
+	margin:2px;
+}
+
+.p_label
+{
+	width: 500px;
+}
+
+.p_label_td_key
+{
+	width: 120px;
+	color: #777777;
+	background-color: transparent;	
+}
+
+.p_label_td_value
+{
+	color: #777777;
+	background-color: transparent;
+}
