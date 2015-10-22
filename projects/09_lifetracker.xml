@@ -1,0 +1,24 @@
+<project>
+	<title>Life Tracker</title>
+	<short_desc>Advanced telemetric system for tracking and monitoring endangered species.</short_desc>
+	<long_desc>
+		<![CDATA[
+		Biodiversity conservation is extremely important part of environment protection. Active protection of threatened animal species include method called reintroduction. Reintroduction gives chance to save endangered species. In such cases monitoring of population is essential. It can be provided by telemetry. Telemetry can also be applied in field studies concerning mammals, even those of small sizes: ecological researches, studies over human impact on animal populations, investment planning and woodland management. Present telemetry tools still need improvement. LifeTracker meets the requirements of scientists. It reduces costs, human work, stress that is put on animals and interference into the natural habitat. It allows not only to monitor whole population but also to control individuals. Simultaneously our system increases efficiency of researches and by that, provides improvement in the field of conservation biology.<br>
+		<br>
+		LifeTracker consists of following components:<br>
+		- Server collecting and processing data.<br>
+		- Clients connected to server via internet. Client application enables to manage researches and visualize data.<br>
+		It have to be integrated with telemetric system that consists of transmitters and receivers- collars with measuring devices worn by animals and tracking stations placed along investigated area. Data is sent to server by GSM or internet.<br>
+		<br>
+		LifeTracker provides realistic 3D visualization of data in user-friendly way. User works in virtual world accurately reflecting real world's topography.
+		]]>
+	</long_desc>
+	<youtube><![CDATA[<iframe width="420" height="315" src="https://www.youtube.com/embed/gMTmIO-vGHY?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event>Imagine Cup 2008</event>
+	<contrib>Lead Programmer, Designer</contrib>
+	<tech>C#, .NET, SQL Server, Direct 3D, OpenGl, Hardrware</tech>
+	<tags>
+		<tag>imagine-cup</tag>
+		<tag>competition</tag>
+	</tags>
+</project>

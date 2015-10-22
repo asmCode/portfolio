@@ -1,0 +1,15 @@
+<project>
+	<title>Burb</title>
+	<short_desc>Competition entry at Riverwash 2014. 3rd place in the PC Demo category.</short_desc>
+	<long_desc>
+		Competition entry at Riverwash 2014. 3rd place in the PC Demo category.
+	</long_desc>
+	<youtube><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/leOr6kT2xKU?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event>Riverwash 2014 demoparty.</event>
+	<contrib>I was the only programmer. I have created whole engine and demo code.</contrib>
+	<tech>C++, OpenGl, GLSL</tech>
+	<tags>
+		<tag>demoscene</tag>
+		<tag>competition</tag>
+	</tags>
+</project>

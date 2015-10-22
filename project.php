@@ -2,6 +2,15 @@
 include 'common.php';
 
 $content = LoadProject($_GET["p"]);
+
+$ip = $_SERVER['REMOTE_ADDR'];
+$host = gethostbyaddr($ip);
+$logdata = "host: " . $host . " (" . $ip . "), time: " . date("c") . ", p: " . $_GET["p"] . "\n";
+//$fh = fopen("visit", "a+");
+//fwrite($fh, $logdata);
+//fclose($fh);
+
+mail("majakthecoder@gmail.com", "ktos wpakowal sie na strone", $logdata);
 ?>
 
 <html>

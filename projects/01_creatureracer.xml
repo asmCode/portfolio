@@ -1,0 +1,18 @@
+<project>
+	<title>Creature Racer</title>
+	<short_desc>Mobile game available on Android and iOS</short_desc>
+	<long_desc>
+		<![CDATA[
+		<a href="https://play.google.com/store/apps/details?id=com.crazylabs.creatureracer">
+			<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+		</a>
+		]]>
+	</long_desc>
+	<youtube><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/s7-r6uXnz_Y?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event></event>
+	<contrib>CTO, Lead programmer</contrib>
+	<tech>C#, Unity 3D, GLSL</tech>
+	<tags>
+		<tag>gamedev</tag>
+	</tags>
+</project>

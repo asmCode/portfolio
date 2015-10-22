@@ -3,17 +3,16 @@ include('common.php');
 
 $projectsHtmlCode = GetAllProjectsCode();
 
-//$projects = LoadProjects($_GET["p"]);
-/*
+
 $ip = $_SERVER['REMOTE_ADDR'];
 $host = gethostbyaddr($ip);
 $logdata = "host: " . $host . " (" . $ip . "), time: " . date("c") . "\n";
-$fh = fopen("visit", "a+");
-fwrite($fh, $logdata);
-fclose($fh);
+//$fh = fopen("visit", "a+");
+//fwrite($fh, $logdata);
+//fclose($fh);
 
 mail("majakthecoder@gmail.com", "ktos wpakowal sie na strone", $logdata);
-*/
+
 ?>
 
 <html>
@@ -42,7 +41,7 @@ mail("majakthecoder@gmail.com", "ktos wpakowal sie na strone", $logdata);
 <center>
 
 <div class="section title center">
-Szymon Majewski - Programmer
+// Szymon Majewski // Programmer
 </div>
 
 <br>
@@ -54,7 +53,11 @@ Szymon Majewski - Programmer
 		<img class="myphoto_image" src="img/photo2.jpg" />
 	</div>
 	<div class="mydesc">
-		Purpose of this site is to present some of my most interesting projects, that I have created in the past. Most of them are connected with Microsoft Imagine Cup competition. I was mainly responsible for technical part - designing architecture and programming.<br>
+		<a target="_blank" style="font-size:24px" href="szymon_majewski_resume.pdf">Download Resume</a><br>
+		<br>
+		I have always been a big fan of computer games, including their entertainment and productivity sides. I had planned my education and career in such a way as to become an expert in the field of software development. I have gained the experience in many competitions, academic projects and as a programmer in leading software development companies in Poland. I have possess a solid theoretical and practical basis within game development.<br>
+		I know the OpenGL environment very well, on the basis of which I have created my own graphics engine. The engine helped me to create a couple of Tech Demos on the demoscene (computer subculture) and games on the iOS and Tizen platforms.<br>
+		The knowledge of low-level graphics programming and the knowledge of mathematics allows me to create a very optimal code.<br>
 		<br>
 		<div align="left" style="width:800px;">
 			<table class="p_label">
@@ -71,7 +74,7 @@ Szymon Majewski - Programmer
 						Phone
 					</td>
 					<td class="p_label_td_value">
-						+48 669 946 762
+						(+48) 663 946 762
 					</td>
 				</tr>
 				<tr>
@@ -85,7 +88,7 @@ Szymon Majewski - Programmer
 			</table>
 		</div>
 		<br>
-		<a target="_blank" style="font-size:24px" href="szymon_majewski_resume.pdf">Download Resume</a>
+		
 	</div>
 </div>
 

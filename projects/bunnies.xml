@@ -1,0 +1,22 @@
+<project>
+	<title><![CDATA[Bunnies & Rabies]]></title>
+	<short_desc>Funny FPP game made for Global Game Jam 2011</short_desc>
+	<long_desc>
+		<![CDATA[
+		Bunnies & Rabbies is a mixture of FPP shooter and "game-of-life-like" simulation:<br>
+		just try to keep colony of sweet bunnies alive as long as you can by eliminating infected individuals in old-fashioned
+		way (with a stick of a dynamite and 12 gauge shotgun).<br>
+		<br>
+		There are two kinds of rabbits in this game: healthy, pink ones and brown infected with rabies.
+		Rabbits' population is growing and your task is to keep infected ones at bay so they don't transmit their disease any further.
+		]]>
+	</long_desc>
+	<youtube><![CDATA[<iframe width="420" height="315" src="https://www.youtube.com/embed/xjQ4V_G2goo?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event>Global Game Jam 2011</event>
+	<contrib>Programming, Design</contrib>
+	<tech>C#, XNA</tech>
+	<tags>
+		<tag>gamedev</tag>
+		<tag>competition</tag>
+	</tags>
+</project>

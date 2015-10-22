@@ -1,0 +1,16 @@
+<project>
+	<title>Pix it All</title>
+	<short_desc>Chillout puzzle mobile game available on iOS</short_desc>
+	<long_desc>
+		<![CDATA[
+		<a href="https://geo.itunes.apple.com/us/app/pix-it-all/id488585593?mt=8" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+		]]>
+	</long_desc>
+	<youtube><![CDATA[<iframe width="420" height="315" src="https://www.youtube.com/embed/PlSyZbR94Kg?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event></event>
+	<contrib>CTO, Lead programmer</contrib>
+	<tech>C++, OpenGl, OpenAl</tech>
+	<tags>
+		<tag>gamedev</tag>
+	</tags>
+</project>

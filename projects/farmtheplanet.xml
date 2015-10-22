@@ -1,0 +1,21 @@
+<project>
+	<title><![CDATA[Farm the Planet]]></title>
+	<short_desc>Economic strategy game made for Imagine Cup 2010</short_desc>
+	<long_desc>
+		<![CDATA[
+		Farm the planet is a game which promotes healthy and ecological food. Food processing industry in
+		some regions of the world doesn't concern the environment so it's important to raise a new generation
+		of conscious customers who will choose healthy and ecological food.<br>
+		
+		]]>
+	</long_desc>
+	<youtube><![CDATA[<iframe width="420" height="315" src="https://www.youtube.com/embed/wYJ5dYc4V6g?rel=0" frameborder="0" allowfullscreen></iframe>]]></youtube>
+	<event>Imagine Cup 2010</event>
+	<contrib>Programming, Design</contrib>
+	<tech>C#, XNA</tech>
+	<tags>
+		<tag>gamedev</tag>
+		<tag>imagine-cup</tag>
+		<tag>competition</tag>
+	</tags>
+</project>
