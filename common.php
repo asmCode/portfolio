@@ -55,6 +55,8 @@ function GetAllFiles($path)
 		}
 	}
 	
+	sort($files);
+	
 	return $files;
 }
 
@@ -76,6 +78,8 @@ function GetImagesList($projectId)
 			}
 		}
 	}
+	
+	sort($images);
 	
 	return $images;
 }
